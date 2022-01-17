@@ -1,7 +1,7 @@
 # ZMK Config for Lak 
 ZMK keyboard firmware shield for [Lak](https://github.com/BrokenFlows/Lak)
 
-![Lak Photo]f(https://github.com/BrokenFlows/Lak/blob/master/images/lak.jpegf)
+![Lak Photo](https://github.com/BrokenFlows/Lak/blob/master/images/lak.jpeg)
 
 ## What is zmk-lak?
 This repository defines and builds [ZMK keyboard firmware](https://zmk.dev) for the Lak keyboard shield with [nice!nano](https://nicekeyboards.com/nice-nano) V1 and V2.
